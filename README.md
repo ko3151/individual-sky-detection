@@ -13,4 +13,6 @@ This project aims to develop a computer vision algorithm that can automatically 
 
 5. **Result Output**: The algorithm saves the output figures in a designated "results" folder. The filenames are constructed based on the original folder name, followed by "_result.png". If the "results" folder does not exist, the algorithm will create it in the same directory as the code. This organized storage ensures that the algorithm's results are readily accessible and structured for analysis.
 
-6. **Sample Results**: You can find a sample of the algorithm's output results in the "results" folder for reference and evaluation.
+6. **Sample Results**:
+   ![ss](https://github.com/ko3151/individual-sky-detection/assets/93027242/5f66a938-8171-449b-adca-cdee9b561f75)
+
